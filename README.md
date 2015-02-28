@@ -18,7 +18,7 @@ Python 3.4.2
 
 Pygame 1.9.2a0 (available for download here: http://www.pygame.org/download.shtml)
 
-Provided that the above are installed correctly, running "python CrystalDefense1.0/main.py" should launch the game.
+Provided that the above are installed correctly, running "python crystaldefense/main.py" should launch the game.
 
 How to Play
 ===============
