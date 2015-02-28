@@ -3,7 +3,7 @@ Crystal Defense 1.0 - Tower Defense Game
 By: Taylor Tamblin
 12-12-14
 
-# Overview #
+### Overview ###
 
 This is a Tower Defense style game written in Python using the Pygame library.  The objective of this game is to strategically place towers to stop enemies from reaching the other side of the map.
 
