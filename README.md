@@ -15,6 +15,7 @@ Dependencies
 *Note* This game was built and tested on Windows 64-bit 7 and 8.1. It 'should' run on other systems, however (such as Linux).
 
 Python 3.4.2
+
 Pygame 1.9.2a0 (available for download here: http://www.pygame.org/download.shtml)
 
 Provided that the above are installed correctly, running "python CrystalDefense1.0/main.py" should launch the game.
